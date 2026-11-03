@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2400" height="1370" viewBox="0 0 2400 1370">
+<defs><marker id="open" viewBox="0 0 12 12" refX="11" refY="6" markerWidth="12" markerHeight="12" orient="auto-start-reverse"><path d="M1 1 L11 6 L1 11" fill="none" stroke="#444" stroke-width="1.6"/></marker></defs>
+<rect width="100%" height="100%" fill="white"/>
+<rect x="420" y="60" width="1560" height="1170" fill="none" stroke="#222" stroke-width="3"/>
+<text x="1200" y="104" font-family="Times New Roman, Liberation Serif, serif" font-size="35" text-anchor="middle" fill="#111" font-weight="bold">Система управления закупочными заявками</text>
+<path d="M232 260 L545 200" fill="none" stroke="#555" stroke-width="2.4"/>
+<path d="M232 260 H390 V120 H1190 V200 H1225" fill="none" stroke="#555" stroke-width="2.4"/>
+<path d="M232 260 H380 V380 H545" fill="none" stroke="#555" stroke-width="2.4"/>
+<path d="M232 260 H365 V560 H545" fill="none" stroke="#555" stroke-width="2.4"/>
+<path d="M232 260 H350 V920 H850" fill="none" stroke="#555" stroke-width="2.4"/>
+<path d="M232 650 H355 V285 H1190 V380 H1225" fill="none" stroke="#555" stroke-width="2.4"/>
+<path d="M232 650 H380 V645 H1190 V560 H1225" fill="none" stroke="#555" stroke-width="2.4"/>
+<path d="M232 650 H395 V920 H850" fill="none" stroke="#555" stroke-width="2.4"/>
+<path d="M232 1040 H335 V465 H1206 V380 H1225" fill="none" stroke="#555" stroke-width="2.4"/>
+<path d="M232 1040 H345 V645 H1206 V560 H1225" fill="none" stroke="#555" stroke-width="2.4"/>
+<path d="M232 1040 H370 V920 H850" fill="none" stroke="#555" stroke-width="2.4"/>
+<path d="M2198 400 H2055 V655 H1190 V740 H1155" fill="none" stroke="#555" stroke-width="2.4"/>
+<path d="M2198 400 H2035 V740 H1835" fill="none" stroke="#555" stroke-width="2.4"/>
+<path d="M2198 400 H2020 V920 H1530" fill="none" stroke="#555" stroke-width="2.4"/>
+<path d="M2198 980 H2070 V1010 H1190 V1100 H1155" fill="none" stroke="#555" stroke-width="2.4"/>
+<path d="M2198 980 H2050 V1100 H1835" fill="none" stroke="#555" stroke-width="2.4"/>
+<path d="M1530 802 V837 H850 V802" fill="none" stroke="#555" stroke-width="2.4" stroke-dasharray="12 8" marker-end="url(#open)"/>
+<text x="1190" y="824" font-family="Times New Roman, Liberation Serif, serif" font-size="28" text-anchor="middle" fill="#111">«include»</text>
+<ellipse cx="850" cy="200" rx="305" ry="62" fill="#f5f5f5" stroke="#333" stroke-width="2.5"/>
+<text x="850" y="210" font-family="Times New Roman, Liberation Serif, serif" font-size="31" text-anchor="middle" fill="#111">Создать заявку</text>
+<ellipse cx="1530" cy="200" rx="305" ry="62" fill="#f5f5f5" stroke="#333" stroke-width="2.5"/>
+<text x="1530" y="210" font-family="Times New Roman, Liberation Serif, serif" font-size="31" text-anchor="middle" fill="#111">Изменить заявку</text>
+<ellipse cx="850" cy="380" rx="305" ry="62" fill="#f5f5f5" stroke="#333" stroke-width="2.5"/>
+<text x="850" y="390" font-family="Times New Roman, Liberation Serif, serif" font-size="31" text-anchor="middle" fill="#111">Отправить на согласование</text>
+<ellipse cx="1530" cy="380" rx="305" ry="62" fill="#f5f5f5" stroke="#333" stroke-width="2.5"/>
+<text x="1530" y="390" font-family="Times New Roman, Liberation Serif, serif" font-size="31" text-anchor="middle" fill="#111">Принять решение</text>
+<ellipse cx="850" cy="560" rx="305" ry="62" fill="#f5f5f5" stroke="#333" stroke-width="2.5"/>
+<text x="850" y="570" font-family="Times New Roman, Liberation Serif, serif" font-size="31" text-anchor="middle" fill="#111">Просмотреть свои заявки</text>
+<ellipse cx="1530" cy="560" rx="305" ry="62" fill="#f5f5f5" stroke="#333" stroke-width="2.5"/>
+<text x="1530" y="552" font-family="Times New Roman, Liberation Serif, serif" font-size="31" text-anchor="middle" fill="#111">Просмотреть очередь</text>
+<text x="1530" y="588" font-family="Times New Roman, Liberation Serif, serif" font-size="31" text-anchor="middle" fill="#111">согласования</text>
+<ellipse cx="850" cy="740" rx="305" ry="62" fill="#f5f5f5" stroke="#333" stroke-width="2.5"/>
+<text x="850" y="750" font-family="Times New Roman, Liberation Serif, serif" font-size="31" text-anchor="middle" fill="#111">Выбрать поставщика</text>
+<ellipse cx="1530" cy="740" rx="305" ry="62" fill="#f5f5f5" stroke="#333" stroke-width="2.5"/>
+<text x="1530" y="750" font-family="Times New Roman, Liberation Serif, serif" font-size="31" text-anchor="middle" fill="#111">Сформировать заказ</text>
+<ellipse cx="1190" cy="920" rx="340" ry="62" fill="#f5f5f5" stroke="#333" stroke-width="2.5"/>
+<text x="1190" y="930" font-family="Times New Roman, Liberation Serif, serif" font-size="31" text-anchor="middle" fill="#111">Просмотреть историю</text>
+<ellipse cx="850" cy="1100" rx="305" ry="62" fill="#f5f5f5" stroke="#333" stroke-width="2.5"/>
+<text x="850" y="1110" font-family="Times New Roman, Liberation Serif, serif" font-size="31" text-anchor="middle" fill="#111">Управлять пользователями</text>
+<ellipse cx="1530" cy="1100" rx="305" ry="62" fill="#f5f5f5" stroke="#333" stroke-width="2.5"/>
+<text x="1530" y="1110" font-family="Times New Roman, Liberation Serif, serif" font-size="31" text-anchor="middle" fill="#111">Изменить статус поставщика</text>
+<circle cx="180" cy="196" r="28" fill="white" stroke="#222" stroke-width="3"/>
+<path d="M180 224 V325 M128 260 H232 M180 325 L132 384 M180 325 L228 384" fill="none" stroke="#555" stroke-width="2.4"/>
+<text x="180" y="424" font-family="Times New Roman, Liberation Serif, serif" font-size="30" text-anchor="middle" fill="#111">Сотрудник</text>
+<circle cx="180" cy="586" r="28" fill="white" stroke="#222" stroke-width="3"/>
+<path d="M180 614 V715 M128 650 H232 M180 715 L132 774 M180 715 L228 774" fill="none" stroke="#555" stroke-width="2.4"/>
+<text x="180" y="814" font-family="Times New Roman, Liberation Serif, serif" font-size="30" text-anchor="middle" fill="#111">Руководитель</text>
+<circle cx="180" cy="976" r="28" fill="white" stroke="#222" stroke-width="3"/>
+<path d="M180 1004 V1105 M128 1040 H232 M180 1105 L132 1164 M180 1105 L228 1164" fill="none" stroke="#555" stroke-width="2.4"/>
+<text x="180" y="1204" font-family="Times New Roman, Liberation Serif, serif" font-size="30" text-anchor="middle" fill="#111">Финансовый</text>
+<text x="180" y="1239" font-family="Times New Roman, Liberation Serif, serif" font-size="30" text-anchor="middle" fill="#111">контролёр</text>
+<circle cx="2250" cy="336" r="28" fill="white" stroke="#222" stroke-width="3"/>
+<path d="M2250 364 V465 M2198 400 H2302 M2250 465 L2202 524 M2250 465 L2298 524" fill="none" stroke="#555" stroke-width="2.4"/>
+<text x="2250" y="564" font-family="Times New Roman, Liberation Serif, serif" font-size="30" text-anchor="middle" fill="#111">Специалист</text>
+<text x="2250" y="599" font-family="Times New Roman, Liberation Serif, serif" font-size="30" text-anchor="middle" fill="#111">по закупкам</text>
+<circle cx="2250" cy="916" r="28" fill="white" stroke="#222" stroke-width="3"/>
+<path d="M2250 944 V1045 M2198 980 H2302 M2250 1045 L2202 1104 M2250 1045 L2298 1104" fill="none" stroke="#555" stroke-width="2.4"/>
+<text x="2250" y="1144" font-family="Times New Roman, Liberation Serif, serif" font-size="30" text-anchor="middle" fill="#111">Администратор</text>
+<text x="1200" y="1300" font-family="Times New Roman, Liberation Serif, serif" font-size="29" text-anchor="middle" fill="#111">Ассоциации с акторами — сплошные линии; пунктир «include» — между сценариями.</text>
+<text x="1200" y="1340" font-family="Times New Roman, Liberation Serif, serif" font-size="29" text-anchor="middle" fill="#111">Права ограничены ролью, принадлежностью заявки и текущим этапом согласования.</text>
+</svg>
